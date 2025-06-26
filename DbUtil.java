@@ -7,7 +7,7 @@ public class DbUtil {
 
     public static Connection getConnection() {
         try {
-            InputStream inputStream = DbUtil.class.getResourceAsStream("/db.properties");
+            InputStream inputStream = DbUtil.class.getResourceAsStream("/db_example.properties");
             if (inputStream == null) {
                 System.err.println("Error: db.properties file not found in the classpath.");
                 return null;

@@ -18,3 +18,9 @@ This is a simple Java Command Line Interface (CLI) application that performs bas
 
 ##  Project Structure
 
+- src
+  - DbUtil
+  - Main
+  - Java
+- Resources
+  - db_example.properties

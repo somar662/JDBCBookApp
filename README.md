@@ -1,7 +1,7 @@
 # JDBC Book App (CLI)
 
 This is a simple Java Command Line Interface (CLI) application that performs basic CRUD (Create, Read, Update, Delete) operations on a MySQL database of books using JDBC.
-This project is for leaarning purposes.
+By clicking one of the options you can choose which operation you would like to perform.
 
 ##  Features
 
